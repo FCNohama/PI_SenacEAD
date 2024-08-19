@@ -21,4 +21,5 @@ Para executar o projeto localmente, certifique-se de ter as seguintes ferramenta
 - MySQL Server
 
 **Desenvolvido Por: Felipe Carvalho Nohama**
+
 **Inspirado no projeto oferecido pelo Professor Samuca em seu canal do youtube chamado XAVECODING. Nome do projeto: Spring MVC**
